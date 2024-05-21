@@ -1,0 +1,6 @@
+# TODO
+
+1. Write a failing test for the game "Electrons Around the Cores".
+2. Implement the simplest code to pass the test.
+3. Refactor the code if necessary.
+4. Repeat for each input/output pair provided.
